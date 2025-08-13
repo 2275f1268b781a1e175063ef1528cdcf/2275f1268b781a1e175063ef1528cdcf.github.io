@@ -9,15 +9,18 @@
   "servers" : [
     {
             "host" : "nemesisx0.aternos.me",
-            "port" : 56612
+            "port" : 56612,
+            "id" : 1
         },
         {
             "host" : "arcade_0717.aternos.me",
-            "port" : 41775
+            "port" : 41775,
+            "id" : 2
         },
         {
             "host" : "glitch_0717.aternos.me",
-            "port" : 40196
+            "port" : 40196,
+            "id" : 3
         }
   ],
   "news" : null
