@@ -1,5 +1,6 @@
 {
     "Ninja_Devil": {
+        "level" : 99,
         "tier": "Kindle",
         "kills": 0,
         "deaths": 0,
@@ -13,22 +14,6 @@
         },
         "uid": "7DC434EC-7AD9-3EB9-B364-C33FB03E4849",
         "tag": "Player"
-    },
-    "Bunny": {
-        "level": 1,
-        "tier": "Kindle",
-        "kills": 0,
-        "deaths": 0,
-        "playtime": 0,
-        "distance": "0",
-        "username": "Bunny",
-        "specs": {
-            "cpu": "Intel i5 12th Gen",
-            "ram": "16GB DDR4 3200 MT/s",
-            "gpu": "Nvidia GeForce RTX 3050 4GB GDDR4"
-        },
-        "uid": "8ACE259D-5D4D-3A3A-8981-897ACDD3DEDC",
-        "tag": "Master Minner"
     },
     "GliTCH": {
         "level": 1,
@@ -47,6 +32,22 @@
         "playtime": 0,
         "distance": "0K",
         "username": "himan"
+    },
+    "Bunny": {
+        "level": 1,
+        "tier": "Kindle",
+        "kills": 0,
+        "deaths": 0,
+        "playtime": 0,
+        "distance": "0",
+        "username": "Bunny",
+        "specs": {
+            "cpu": "Intel i5 12th Gen",
+            "ram": "16GB DDR4 3200 MT/s",
+            "gpu": "Nvidia GeForce RTX 3050 4GB GDDR4"
+        },
+        "uid": "8ACE259D-5D4D-3A3A-8981-897ACDD3DEDC",
+        "tag": "Master Minner"
     },
     "Revanth": {
         "level": 1,
